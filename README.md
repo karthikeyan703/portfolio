@@ -1,8 +1,8 @@
 <div align ="center">
 
-# JEEVA - Personal portfolio
+# KARTHIKEYAN - Personal portfolio
 
-<strong> JEEVA Portofolio </strong> is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+<strong>KARTHIKEYAN Portofolio </strong> is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
  
